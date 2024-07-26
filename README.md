@@ -28,5 +28,6 @@ Screenshots :
 
 Future Enhancements :
 
+Mobile Responsiveness: The site is not fully optimized for mobile devices. I plan to add media queries as a future enhancement, but it can't be done right now due to time constraint.
 Add JavaScript for form validation and enhanced functionality.
 Implement a backend to handle user authentication and data storage.
