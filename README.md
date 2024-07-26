@@ -1,7 +1,7 @@
 # ACES-Signup-Page
 Introduction :
 
-This project is a sign-up page created for the ACES club to showcase my interest and dedication. The project strictly uses HTML and CSS, as per the given instructions.
+This project is a sign-up page created for the ACES club to showcase my interest and dedication. The project uses HTML and CSS & a bit of bootstrap.
 
 Features :
 
