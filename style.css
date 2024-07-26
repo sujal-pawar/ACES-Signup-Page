@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     height: 100vh;
-    background-image: url("./images/background2.jpg") ;
+    background-image: url("./images/background.jpg") ;
     background-repeat:no-repeat ;
     background-size: cover;
     background-position: center;
@@ -37,7 +37,7 @@ header{
     margin-right:0 ;
     margin-left: 10px;
     justify-content: center;
-    color: gold;
+    color:beige;
 }
 body > div > div > div{
     margin-top:27px ;
@@ -45,7 +45,7 @@ body > div > div > div{
 .navItems > a{
     position: relative;
     font-size: 1.2em;
-    color: #E2E2B6;
+    color: beige;
     font-weight: 500;
     margin-left: 30px;
     margin-right: 10px;
@@ -59,7 +59,7 @@ body > div > div > div{
     position: absolute;
     width: 100%;
     height: 3px;
-    background:#E2E2B6 ;
+    background:beige ;
     border-radius: 5px;
     transform-origin: left;
     transform: scaleX(0);
@@ -74,17 +74,17 @@ body > div > div > div{
    display: flex;
    align-items: center;
    justify-content: center;
-    color: #E2E2B6;
+    color: beige;
     width: 400px;
     height: 430px;
     background-color: transparent;
     border-radius: 20px;
-    border: 2px solid #E2E2B6;
+    border: 2px solid beige;
     backdrop-filter: blur(40px);
 }
 .logInForm2 h2{
     font-size: 3em;
-    color: #E2E2B6;
+    color: beige;
     text-align: center;
     font-weight: 500;
 }
@@ -93,7 +93,7 @@ body > div > div > div{
   width: 100%;
   height: 20px;
   margin: 20px;
-  color: #E2E2B6;
+  color: beige;
 }
 .input-box input{
     background: transparent;
@@ -105,7 +105,7 @@ body > div > div > div{
 }
 .noaccount a{
     text-decoration: none;
-    color: #6EACDA;
+    color: #EB3678;
     cursor: pointer;
 }
 .noaccount a::after{
@@ -115,7 +115,7 @@ body > div > div > div{
     position: absolute;
     width: 100%;
     height: 3px;
-    background:#6EACDA ;
+    background:red ;
     border-radius: 5px;
     transform-origin: right;
     transform: scaleX(0);
@@ -124,15 +124,15 @@ body > div > div > div{
 .noaccount a:hover::after{
     transform: scaleX(1);
     transform-origin: left;
-    background-color: #6EACDA;
+    background-color: red;
 }
 body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form > button{
     width: 100%;
     padding: 5px;
-    border: 1px solid #E2E2B6;
+    border: 1px solid beige;
     border-radius: 5px;
     font-size: 1em;
-    color: #E2E2B6;
+    color: beige;
     font-weight: 5 00;
     margin: 10px;
     transition: .3s;
@@ -145,14 +145,14 @@ body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form
     position: absolute;
     width: 100%;
     height: 3px;
-    background:#E2E2B6 ;
+    background:beige ;
     border-radius: 5px;
     transform-origin: right;
     transform: scaleX(0);
     transition: transform 0.5s;
 }
 body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form > button:hover{
-    background-color: #6EACDA;
+    background-color: beige;
     color: #021526;
 }
 body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form > button:hover::after{
@@ -163,7 +163,7 @@ body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form
 }
 .logInForm h2{
     font-size: 3em;
-    color: #E2E2B6;
+    color: beige;
     text-align: center;
     font-weight: 500;
 }
