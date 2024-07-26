@@ -7,7 +7,6 @@ Features :
 
 Sign-Up Form: Collects user information such as email and password.
 Login Page: Separate login page with a hyperlink for easy navigation.
-Responsive Design: Ensures the page looks good on different devices.
 Simple Animations: Adds a touch of interactivity and visual appeal.
 
 Technologies Used :
