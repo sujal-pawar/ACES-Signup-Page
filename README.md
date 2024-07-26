@@ -15,12 +15,6 @@ Technologies Used :
 HTML
 CSS
 
-How to Use :
-
-Clone the repository to your local machine.
-Open signup.html in your web browser to view the sign-up page.
-Click the hyperlink to navigate to login.html for the login page.
-
 Screenshots :
 
 - Login Page
