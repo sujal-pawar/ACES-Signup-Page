@@ -18,12 +18,16 @@ Screenshots :
 
 - Login Page
 
-![Screenshot 2024-07-26 105108](https://github.com/user-attachments/assets/1e33f204-1f7c-4b02-9ccc-6614d41772a5)
+![image](https://github.com/user-attachments/assets/e0d3de25-e3c4-4f03-8bcd-af0480f9a531)
+
+
 
 
 - Sign-Up Page
 
-![Screenshot 2024-07-26 105051](https://github.com/user-attachments/assets/4dbed23b-a8b8-4711-9256-174e35b90fc1)
+![image](https://github.com/user-attachments/assets/44e91cf0-968a-49e3-bea5-68fce5396939)
+
+
 
 
 Future Enhancements :
