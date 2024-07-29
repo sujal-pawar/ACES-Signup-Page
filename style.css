@@ -187,3 +187,28 @@ body > header > div{
     align-items: center;
     justify-content: center;
 }
+
+@media (max-width:480px){
+    body > header {
+        font-size: 0.9rem;
+    }
+    body > header > div > img{
+        display: none;
+    }
+    body > div > div > div > div > div.col-lg-7.text-center.text-lg-start.text-light{
+        margin: 30px;
+        padding: 10px;
+        font-size: 0.5em;
+    }
+    body > div > div > div > div > div.col-lg-7.text-center.text-lg-start.text-light > h1{
+        font-size:2rem;
+        margin-bottom: 10px;
+        margin-top: 0;
+    }
+    .wrapper{
+        position: static;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
