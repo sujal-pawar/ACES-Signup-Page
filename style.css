@@ -190,57 +190,58 @@ body > header > div{
 
 @media (max-width: 480px) {
     header {
+        position: absolute;
         flex-direction: column;
         align-items: flex-start;
     }
-    
-    .titleLogo{
+
+    .titleLogo {
         width: 100%;
         justify-content: center;
         align-items: center;
     }
-    .body > header > nav{
+
+    .body>header>nav {
         justify-content: center;
         align-items: center;
         width: 100%;
     }
+
     .logo {
         height: 2rem;
     }
 
-    .navItems > a {
-        font-size: 0.9em;
-        justify-content: space-between;
-        padding: 10px;
-        margin-right: 60px;
+    .navItems {
+        margin-top: 0.625rem;
+        padding: 0;
     }
-    .navItems{
-        margin-top: 10px;
-        padding:0 ;
+
+    body>div>div>div>div>div.col-lg-7.text-center.text-lg-start.text-light>h1 {
+        font-size: 2rem;
+        padding-bottom: 0.625rem;
     }
-    body > div > div > div > div > div.col-lg-7.text-center.text-lg-start.text-light > h1{
-        font-size: 2em;
-        padding-bottom: 10px;
-    }
+
     .wrapper {
         width: 100%;
-        padding: 15px;
-        margin-top: 30px;
+        padding: 0.9375rem;
+        margin-top: 1.875rem;
     }
 
     .input-box {
-        margin: 5px;
+        margin: 0.3125rem;
     }
 
     .input-box input {
-        padding-left: 3px;
-        padding-right: 10px;
+        padding-left: 0.1875rem;
+        padding-right: 0.625rem;
     }
-    body > div > div > div > div > div.col-lg-7.text-center.text-lg-start.text-light{
+
+    body>div>div>div>div>div.col-lg-7.text-center.text-lg-start.text-light {
         margin-top: 10%;
     }
-    body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form > button {
-        font-size: 0.9em;
-        padding: 3px;
+
+    body>div>div>div>div>div.col-md-10.mx-auto.col-lg-5>div>div>form>button {
+        font-size: 0.9rem;
+        padding: 0.1875rem;
     }
 }
