@@ -195,9 +195,8 @@ body > header > div{
         align-items: flex-start;
     }
     body {
-        background-size: cover; 
-        background-position: center;
-        background-repeat: no-repeat;
+         background-position:right;
+        background-repeat: repeat;
     }
 
     .titleLogo {
