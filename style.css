@@ -194,14 +194,13 @@ body > header > div{
         flex-direction: column;
         align-items: flex-start;
     }
-    body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form{
-       margin: 1.5rem 0;
+    .input-box {
+        margin: 1.3rem;
     }
     body {
          background-position:right;
         background-repeat: repeat;
     }
-
     .titleLogo {
         width: 100%;
         justify-content: center;
@@ -232,10 +231,6 @@ body > header > div{
         width: 100%;
         padding: 0.93rem;
         margin-top: 1.8rem;
-    }
-
-    .input-box {
-        margin: 1.3rem;
     }
 
     .input-box input {
