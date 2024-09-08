@@ -194,6 +194,9 @@ body > header > div{
         flex-direction: column;
         align-items: flex-start;
     }
+    body > div > div > div > div > div.col-md-10.mx-auto.col-lg-5 > div > div > form{
+       margin: 1.5rem 0;
+    }
     body {
          background-position:right;
         background-repeat: repeat;
